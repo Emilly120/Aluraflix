@@ -19,5 +19,6 @@ section {
     justify-content: center;
 }
 
- - chamada-texto::after
+ .chamada-texto{
    margin-right: 5%;
+}
